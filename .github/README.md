@@ -1,14 +1,14 @@
 ━━━━━━━━━━━━━━━━━━━━
 
 <h2 align="center">
-    ──「 ғᴀʟʟᴇɴ ✘ ʀᴏʙᴏᴛ 」──
+    ──「 Melissa 」──
 </h2>
 
 <p align="center">
   <img src="https://github.com/famhawiteinfosys/Melissa/blob/master/Melissa/resources/Melissa as Cop Girl.jpg">
 </p>
 
-_**ᴀᴠᴀɪʟᴀʙʟᴇ ᴏɴ ᴛᴇʟᴇɢʀᴀᴍ ᴀs [Melissa](https://t.me/dMelissaBot**_
+_**ᴀᴠᴀɪʟᴀʙʟᴇ ᴏɴ ᴛᴇʟᴇɢʀᴀᴍ ᴀs [Melissa](https://t.me/dMelissaBot)**_
 ━━━━━━━━━━━━━━━━━━━━
 
 <p align="center">
