@@ -24,7 +24,7 @@ markdown2==2.4.10
 motor==3.3.1
 nudepy
 nekos.py
-opencv-python-headless==4.8.0.76
+opencv-python-headless==4.9.0.80
 pillow==10.0.1
 pretty_errors==1.2.25
 psutil==5.9.5
